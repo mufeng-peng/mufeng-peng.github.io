@@ -187,7 +187,7 @@ profile:
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Nerd
-  author_title: 不会的代码的考研汪
+  author_title: 不会打代码的考研汪
   author_description: 运似轻舟
   location: ChongQing, China
   follow: 
